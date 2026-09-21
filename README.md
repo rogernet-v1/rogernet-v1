@@ -1,56 +1,63 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=System.out.println(%22Hello%2BWorld!%22);;Python+%7C+Data+Pipeline+%7C+Web+Crawling;数据采集+%7C+逆向破解+%7C+高并发架构" alt="Typing SVG" />
-  
-  <p align="center">
-    <strong>🇨🇳 欢迎来到我的 GitHub 主页 | 🇬🇧 Welcome to my GitHub Profile</strong>
-  </p>
-</div>
+
+# 👋 你好，我是 Roger
+
+一个热衷于探索底层逻辑与数据价值的计算机系学生。  
+持敬畏之心写每一行代码，在探索与实践中持续学习、不断积累。
 
 ---
 
-### 👨‍💻 About Me / 关于我
+</div>
 
-- 🇨🇳 **中文:**
-  - 🔭 **专注领域：** Python 高性能数据采集管道 (ETL Pipeline)、Web 逆向工程与高并发爬虫系统开发。
-  - 🛠️ **核心技术栈：** Python (Asyncio / httpx / Scrapy), Redis, SQLAlchemy, MySQL, PostgreSQL。
-  - 🎯 **求职方向：** 数据采集工程师 / Python 后端开发 / 数据工程。
+### 📖 关于我
 
-- 🇬🇧 **English:**
-  - 🔭 **Focus:** High-performance data collection pipelines (ETL), web reverse engineering, and scalable web crawlers.
-  - 🛠️ **Tech Stack:** Python (Asyncio / httpx / Scrapy), Redis, SQLAlchemy, MySQL, PostgreSQL.
-  - 🎯 **Target Roles:** Data Engineer / Python Backend / Web Scraping Engineer.
+- 🎓 **背景：** 信息安全专业在读，专注于数据处理与后端服务架构。
+- 🔬 **研究与实践兴趣：**
+  - **数据挖掘与采集：** 高并发网络数据采集、自动化流程设计与数据解析。
+  - **数据分析与管道：** 构建高效的 ETL 数据处理流水线与建模分析。
+  - **后端及系统开发：** Python 高性能异步服务与分布式架构初探。
+- 💡 **学习理念：** 保持谦逊与好奇心，奉行“代码即实践”，在开源社区中吸取营养并尝试反哺。
 
 ---
 
-### 🛠️ Tech Stack & Tools / 技术栈
+### 🛠️ 技术栈与工具库
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+> 熟练掌握基础工具，持续拓展能力边界。
+
+#### 💻 核心语言与数据处理
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/Language-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+#### ⚙️ 框架与组件
+![Asyncio](https://img.shields.io/badge/Framework-Asyncio-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Framework-Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Redis](https://img.shields.io/badge/Database-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+#### 🛠️ 工程与协同
+![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Tool-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats / 数据统计
+### 📋 学习路径与近期规划
+
+- [x] 构建稳定可靠的高并发数据采集服务
+- [ ] 深入学习 Python 异步并发模型机制与性能调优
+- [ ] 探索大型数据管道中的分布式存储与 ETL 优化
+- [ ] 参与更多优秀的开源项目，向优秀开发者学习
+
+---
+
+### 🤝 交流与协作
+
+技术无止境，欢迎同行指教与交流！
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rogernet-v1&show_icons=true&theme=tokyonight&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogernet-v1&layout=compact&theme=tokyonight&hide=html,css" />
-  </a>
-</div>
 
-<br/>
+![Profile Views](https://img.shields.io/badge/动态-欢迎交流学习-00F0FF?style=flat-square)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rogernet-v1&color=00f0ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </div>
